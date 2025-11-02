@@ -1,1 +1,1 @@
-# Pr-cticaAviaci-n
+# Proyect: Detection fake news
